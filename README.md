@@ -1,1 +1,1 @@
-# camp_nuzet
+this repository is for assignments from the course
