@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\task1_camp\\task1_camp\\task1_camp.csproj": {}
+    "D:\\camp2\\camp_nuzet\\task1_camp\\task1_camp\\task1_camp.csproj": {}
   },
   "projects": {
-    "D:\\task1_camp\\task1_camp\\task1_camp.csproj": {
+    "D:\\camp2\\camp_nuzet\\task1_camp\\task1_camp\\task1_camp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\task1_camp\\task1_camp\\task1_camp.csproj",
+        "projectUniqueName": "D:\\camp2\\camp_nuzet\\task1_camp\\task1_camp\\task1_camp.csproj",
         "projectName": "task1_camp",
-        "projectPath": "D:\\task1_camp\\task1_camp\\task1_camp.csproj",
+        "projectPath": "D:\\camp2\\camp_nuzet\\task1_camp\\task1_camp\\task1_camp.csproj",
         "packagesPath": "C:\\Users\\Nuzet\\.nuget\\packages\\",
-        "outputPath": "D:\\task1_camp\\task1_camp\\obj\\",
+        "outputPath": "D:\\camp2\\camp_nuzet\\task1_camp\\task1_camp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

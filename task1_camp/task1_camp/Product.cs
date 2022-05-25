@@ -31,22 +31,7 @@ namespace task1_camp
 
         public double _weight { get; }
 
-        //public double Weight
-        //{
-        //    get
-        //    {
-        //        return Weight;
-        //    }
-        //    set
-        //    {
-        //        if(_weight<0)
-        //        {
-        //            Console.WriteLine("Error!");
-        //            throw new ArgumentException();
-        //        }
-        //        _weight = value;
-        //    }
-        //}
+        
         public Product():this(null,default,default)
         {
 
@@ -73,15 +58,7 @@ namespace task1_camp
            _price = (int)((double)_price*(percent/100d));
         }
 
-        //public virtual void ChangeWeight(double weight)
-        //{
-        //    if(weight < 0)
-        //    {
-        //        Console.WriteLine("Error!");
-        //        throw new ArgumentException();
-        //    }
-        //    _weight = weight;
-        //}
+      
 
     }
 }
