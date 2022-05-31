@@ -143,7 +143,7 @@ namespace Vector
         }
 
         public void Reverse()
-        {
+        {//Треба без допоміжного масиву
             int [] arrReverse = new int[arr.Length];
             
                 for(int j = 0,  i = arr.Length-1; j < arrReverse.Length && i>=0; j++, i--)
@@ -305,7 +305,7 @@ namespace Vector
             }
         }
         public int[] QuickSort()
-        {
+        {// можна просто сортувати поле.
             return Quicksort(0, arr.Length - 1);
             
         }
@@ -324,7 +324,7 @@ namespace Vector
 
                 return arr;
             }
-
+// Не знайшла різних стратегій вибору опорного елемента.
             private  int GetPivotIndex( int minIndex, int maxIndex)
             {
                 int pivot = minIndex - 1;
