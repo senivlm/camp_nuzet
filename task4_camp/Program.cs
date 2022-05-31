@@ -6,7 +6,7 @@ namespace Vector
     {
         static void Main(string[] args)
         {
-
+// Не перехоплюються винятки!!!!
             Console.WriteLine("initShufle:");
             Vector vector = new Vector(10);   
             vector.InitShufle();
