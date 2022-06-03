@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nuzet\\Desktop\\Vector\\Vector.csproj",
+      "projectUniqueName": "D:\\camp2\\camp_nuzet\\task5_camp\\Vector.csproj",
       "projectName": "Vector",
-      "projectPath": "C:\\Users\\Nuzet\\Desktop\\Vector\\Vector.csproj",
+      "projectPath": "D:\\camp2\\camp_nuzet\\task5_camp\\Vector.csproj",
       "packagesPath": "C:\\Users\\Nuzet\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Nuzet\\Desktop\\Vector\\obj\\",
+      "outputPath": "D:\\camp2\\camp_nuzet\\task5_camp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
