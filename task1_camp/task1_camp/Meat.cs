@@ -7,13 +7,13 @@ using System.Threading.Tasks;
 namespace task1_camp
 {
 
-    public enum Category
+    public enum CategoryOfMeat
     {
         HightSort1,
         Sort2,
     }
 
-    public enum Species
+    public enum SpeciesOfMeat
     {
         chicken,
         mutton,
@@ -23,15 +23,15 @@ namespace task1_camp
     }
     internal class Meat:Product
     {
-        public Category _meatCategory { get; }
+        public CategoryOfMeat _meatCategory { get; }
 
-        public Species _meatSpecies { get; }
+        public SpeciesOfMeat _meatSpecies { get; }
 
         public Meat(): this(default,default,default,default,default)
         {
 
         }
-        public Meat(string name, double price, double weight, Category category, Species species): base(name, price , weight)
+        public Meat(string name, double price, double weight, CategoryOfMeat category, SpeciesOfMeat species): base(name, price , weight)
         {
             _meatCategory = category;
             _meatSpecies = species;
@@ -41,10 +41,10 @@ namespace task1_camp
         {
             switch(_meatCategory)
             {
-                case Category.HightSort1:
+                case CategoryOfMeat.HightSort1:
                     percent += 25;
                     break;
-                case Category.Sort2:
+                case CategoryOfMeat.Sort2:
                     percent += 10;
                     break;
                 default:

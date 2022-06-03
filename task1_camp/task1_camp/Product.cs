@@ -31,7 +31,6 @@ namespace task1_camp
 
         public double _weight { get; }
 
-        
         public Product():this(null,default,default)
         {
 
@@ -58,7 +57,6 @@ namespace task1_camp
            _price = (int)((double)_price*(percent/100d));
         }
 
-      
-
+     
     }
 }

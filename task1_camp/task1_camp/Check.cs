@@ -8,26 +8,23 @@ namespace task1_camp
 {
     public class Check
     {
-        public void ProductInformation(Buy buy)
+     
+        public  static void OutputInfoAboutProduct(Product product)
         {
+            Console.ForegroundColor = ConsoleColor.Green;
+            Console.WriteLine("info about product: ");
+            Console.ResetColor();
+            Console.WriteLine(product);
+        }
+        public  static void OutputInfoAboutBuy(Buy buy)
+        {
+            Console.ForegroundColor = ConsoleColor.Green;
             Console.WriteLine("info about products: ");
+            Console.ResetColor();
             foreach (var item in buy._allProducts)
             {
                 Console.WriteLine(item);
             }
-        }
-        public void TotalPrice(Buy buy)
-        {
-            Console.WriteLine("total price:"+buy._totalPrice+"$");
-        }
-
-        public void AllProducts(Buy buy)
-        {
-            Console.WriteLine("all products: "+buy._productsAmount);
-        }
-        public void TotalWeight(Buy buy)
-        {
-            Console.WriteLine("total weight: "+buy._totalWeight+"kg");
         }
 
     }

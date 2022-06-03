@@ -50,14 +50,20 @@ namespace task1_camp
             _totalPrice = _totalPrice+ product.Price;
             _totalWeight = _totalWeight + product._weight;
             _productsAmount = _productsAmount + 1;
-
-
+        }
+        public void TotalPrice()
+        {
+            Console.WriteLine("total price:" + this._totalPrice + "$");
         }
 
-
-
-
-
-
+        public void AllProducts()
+        {
+            Console.WriteLine("all products: " + this._productsAmount);
+        }
+        public void TotalWeight()
+        {
+            Console.WriteLine("total weight: " + this._totalWeight + "kg");
+        }
+      
     }
 }

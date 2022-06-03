@@ -13,35 +13,20 @@ namespace task1_camp
             Product product1 = new Product("apple", 2, 3);
             
 
-            Meat meat = new Meat("beef stake", 20, 1.5, Category.HightSort1, Species.beef);
+            Meat meat = new Meat("beef stake", 20, 1.5, CategoryOfMeat.HightSort1, SpeciesOfMeat.beef);
             
 
             Buy buy = new Buy(product1,meat);
             buy.AddProduct(dairyProduct1);
 
-            Check check = new Check();
-
-
-            
-            check.AllProducts(buy);
-            check.ProductInformation(buy);
-
+            Check.OutputInfoAboutBuy(buy);
+            Check.OutputInfoAboutProduct(meat);
+            buy.TotalPrice();
+            buy.TotalWeight();
+            buy.AllProducts();
            
-            check.TotalPrice(buy);
-            check.TotalWeight(buy);
-
-
-
-
-
-
-
-
-
-
-
-
-
+            
+            
 
         }
     }
