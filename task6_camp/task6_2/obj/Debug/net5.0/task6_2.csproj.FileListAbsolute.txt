@@ -1,0 +1,16 @@
+D:\task6_camp\task6_2\bin\Debug\net5.0\task6_2.exe
+D:\task6_camp\task6_2\bin\Debug\net5.0\task6_2.deps.json
+D:\task6_camp\task6_2\bin\Debug\net5.0\task6_2.runtimeconfig.json
+D:\task6_camp\task6_2\bin\Debug\net5.0\task6_2.runtimeconfig.dev.json
+D:\task6_camp\task6_2\bin\Debug\net5.0\task6_2.dll
+D:\task6_camp\task6_2\bin\Debug\net5.0\task6_2.pdb
+D:\task6_camp\task6_2\obj\Debug\net5.0\task6_2.csproj.AssemblyReference.cache
+D:\task6_camp\task6_2\obj\Debug\net5.0\task6_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\task6_camp\task6_2\obj\Debug\net5.0\task6_2.AssemblyInfoInputs.cache
+D:\task6_camp\task6_2\obj\Debug\net5.0\task6_2.AssemblyInfo.cs
+D:\task6_camp\task6_2\obj\Debug\net5.0\task6_2.csproj.CoreCompileInputs.cache
+D:\task6_camp\task6_2\obj\Debug\net5.0\task6_2.dll
+D:\task6_camp\task6_2\obj\Debug\net5.0\refint\task6_2.dll
+D:\task6_camp\task6_2\obj\Debug\net5.0\task6_2.pdb
+D:\task6_camp\task6_2\obj\Debug\net5.0\task6_2.genruntimeconfig.cache
+D:\task6_camp\task6_2\obj\Debug\net5.0\ref\task6_2.dll
