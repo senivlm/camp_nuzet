@@ -474,6 +474,7 @@ namespace Vector
             
        
         }
+        // При виклику Ви змушені мати одночасно 2 масиви, а вони не поміщаються за умовою задачі в оперативку
         public void MergeWriteToFile(Vector firstArr, Vector secondArr, Trend trend, string fileName)
         {
             int i = 0;
