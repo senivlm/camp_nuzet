@@ -5,7 +5,8 @@ namespace Vector
     class Program
     {
         static void Main(string[] args)
-        {
+        { //Ваш номер 24
+            //не побачила запуску швидкого сортування та сортування злиттям
 
             Console.WriteLine("initShufle:");
             Vector vector = new Vector(10);
