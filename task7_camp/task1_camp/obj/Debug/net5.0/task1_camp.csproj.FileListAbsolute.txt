@@ -1,0 +1,16 @@
+D:\task1_camp\task1_camp\bin\Debug\net5.0\task1_camp.exe
+D:\task1_camp\task1_camp\bin\Debug\net5.0\task1_camp.deps.json
+D:\task1_camp\task1_camp\bin\Debug\net5.0\task1_camp.runtimeconfig.json
+D:\task1_camp\task1_camp\bin\Debug\net5.0\task1_camp.runtimeconfig.dev.json
+D:\task1_camp\task1_camp\bin\Debug\net5.0\task1_camp.dll
+D:\task1_camp\task1_camp\bin\Debug\net5.0\task1_camp.pdb
+D:\task1_camp\task1_camp\obj\Debug\net5.0\task1_camp.csproj.AssemblyReference.cache
+D:\task1_camp\task1_camp\obj\Debug\net5.0\task1_camp.GeneratedMSBuildEditorConfig.editorconfig
+D:\task1_camp\task1_camp\obj\Debug\net5.0\task1_camp.AssemblyInfoInputs.cache
+D:\task1_camp\task1_camp\obj\Debug\net5.0\task1_camp.AssemblyInfo.cs
+D:\task1_camp\task1_camp\obj\Debug\net5.0\task1_camp.csproj.CoreCompileInputs.cache
+D:\task1_camp\task1_camp\obj\Debug\net5.0\task1_camp.dll
+D:\task1_camp\task1_camp\obj\Debug\net5.0\refint\task1_camp.dll
+D:\task1_camp\task1_camp\obj\Debug\net5.0\task1_camp.pdb
+D:\task1_camp\task1_camp\obj\Debug\net5.0\task1_camp.genruntimeconfig.cache
+D:\task1_camp\task1_camp\obj\Debug\net5.0\ref\task1_camp.dll
