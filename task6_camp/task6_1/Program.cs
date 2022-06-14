@@ -5,7 +5,7 @@ namespace task6_1
     internal class Program
     {
         static void Main(string[] args)
-        {
+        {// Молодець. кінцевий файл добре поданий.
             Energo energo = new Energo("..\\..\\..\\inputEnergy.txt");
             energo.InputInfoFromFile();
             Console.WriteLine();
