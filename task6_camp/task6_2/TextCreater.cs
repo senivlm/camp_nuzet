@@ -8,7 +8,7 @@ using System.IO;
 namespace task6_2
 {
     internal class TextCreater
-    {
+    {// Це працюватиме тільки у випадку, що Ви весь текст зможете завантажити в одну стрічку.
         public string _path { get; private set; }
 
         public string[] _text;
