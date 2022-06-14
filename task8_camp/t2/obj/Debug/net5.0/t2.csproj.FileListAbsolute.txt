@@ -1,0 +1,16 @@
+D:\task8_camp\t2\bin\Debug\net5.0\t2.exe
+D:\task8_camp\t2\bin\Debug\net5.0\t2.deps.json
+D:\task8_camp\t2\bin\Debug\net5.0\t2.runtimeconfig.json
+D:\task8_camp\t2\bin\Debug\net5.0\t2.runtimeconfig.dev.json
+D:\task8_camp\t2\bin\Debug\net5.0\t2.dll
+D:\task8_camp\t2\bin\Debug\net5.0\t2.pdb
+D:\task8_camp\t2\obj\Debug\net5.0\t2.csproj.AssemblyReference.cache
+D:\task8_camp\t2\obj\Debug\net5.0\t2.GeneratedMSBuildEditorConfig.editorconfig
+D:\task8_camp\t2\obj\Debug\net5.0\t2.AssemblyInfoInputs.cache
+D:\task8_camp\t2\obj\Debug\net5.0\t2.AssemblyInfo.cs
+D:\task8_camp\t2\obj\Debug\net5.0\t2.csproj.CoreCompileInputs.cache
+D:\task8_camp\t2\obj\Debug\net5.0\t2.dll
+D:\task8_camp\t2\obj\Debug\net5.0\refint\t2.dll
+D:\task8_camp\t2\obj\Debug\net5.0\t2.pdb
+D:\task8_camp\t2\obj\Debug\net5.0\t2.genruntimeconfig.cache
+D:\task8_camp\t2\obj\Debug\net5.0\ref\t2.dll
