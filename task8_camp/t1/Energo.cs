@@ -146,8 +146,9 @@ namespace task6_1
         }
 
         public static List<Flat> operator+ (Energo a, Energo b)
-        {
+        {// навіщо toList?
             List<Flat> _flatsResult  = b._flats.ToList();
+            // множини були ефективніші
             foreach (var flat in a._flats)
             {
                 if(!b._flats.Any(b =>b.Number==flat.Number&&b.NameOwner ==flat.NameOwner))
