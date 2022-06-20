@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace t2
 {
     public class AttendanceStatistics
-    {
+    {// Лінки тут корисні. Молодець.
         List<Attendance> attendances;
 
         public AttendanceStatistics(string fileName)
