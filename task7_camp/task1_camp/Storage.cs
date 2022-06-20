@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace task1_camp
 {
     internal class Storage
-    {
+    {//Не побачила роботи з логуванням
         private Product[] arrayOfProducts;
         public List<Product> arrayOfProductsList = new List<Product>();
         Registration registration = new Registration();
@@ -38,6 +38,7 @@ namespace task1_camp
                 arrayOfProducts[i] = arr[i];
             }
         }
+        //Цей метод краще винести з цього класу в сервісний клас
         public void InputProducts()
         {
             Console.ForegroundColor= ConsoleColor.Green;
@@ -203,6 +204,8 @@ namespace task1_camp
         
             
         }
+        
+        //Треба поговорити про проектування
         public void Show()
         {
             foreach (Product product in arrayOfProductsList)
