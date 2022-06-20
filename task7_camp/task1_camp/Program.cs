@@ -5,7 +5,7 @@ namespace task1_camp
     internal class Program
     {
         static void Main(string[] args)
-        {
+        {//Використовуйте анонімні змінні
             DateTime date1 = new DateTime(2015, 7, 20);
             DairyProduct dairyProduct1 = new DairyProduct("milk", 2.5, 0.9, date1);
 
